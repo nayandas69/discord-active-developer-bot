@@ -1,0 +1,31 @@
+{
+  "name": "discord-active-developer-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot with slash commands for Active Developer badge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "slash-commands",
+    "active-developer"
+  ],
+  "author": {
+    "name": "nayandas69",
+    "email": "nayanchandradas@hotmail.com",
+    "url": "https://github.com/nayandas69"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nayandas69/discord-active-developer-bot.git"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
