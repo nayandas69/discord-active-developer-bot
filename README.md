@@ -1,5 +1,7 @@
 # Discord Bot - Active Developer Badge
 
+> **⚠️ ARCHIVED:** Discord has decommissioned the Active Developer Badge program. This project is no longer functional. [Learn more](https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge)
+
 A Discord bot with slash commands built to help you earn the Discord Active Developer badge.
 
 ## Features
@@ -157,4 +159,5 @@ MIT
 ---
 
 > [!CAUTION]
+
 > This bot is designed for educational purposes and to help you earn the Discord Active Developer badge. Feel free to customize and expand it with more commands and features!
